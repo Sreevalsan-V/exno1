@@ -21,6 +21,31 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+## DEVELOPED BY: SREEVALSAN
+## REGISTER NUMBER: 212223240158
+            
+            ![alt text](image.png)
+            ![alt text](image-1.png)
+            ![alt text](image-2.png)
+            ![alt text](image-3.png)
+            ![alt text](image-4.png)
+            ![alt text](image-5.png)
+            ![alt text](image-6.png)
+            ![alt text](image-7.png)
+            ![alt text](image-8.png)
+            ![alt text](image-9.png)
+            ![alt text](image-10.png)
+            ![alt text](image-11.png)
+            ![alt text](image-12.png)
+            ![alt text](image-13.png)
+            ![alt text](image-14.png)
+            ![alt text](image-15.png)
+            ![alt text](image-16.png)
+            ![alt text](image-17.png)
+            ![alt text](image-18.png)
+            ![alt text](image-19.png)
+            ![alt text](image-20.png)
+            ![alt text](image-21.png)
+
 # Result
           <<include your Result here>>
