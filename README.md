@@ -48,4 +48,5 @@ STEP 6: Use zscore of to remove outliers
 ![alt text](image-21.png)
 
 # Result
-          <<include your Result here>>
+
+Thus the given program executed successfully
